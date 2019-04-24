@@ -1,1 +1,1 @@
-# idre-jupyter-advanced-topics
+# idre-jupyter-hpc
