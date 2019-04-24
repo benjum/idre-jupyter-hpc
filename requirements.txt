@@ -1,0 +1,9 @@
+numpy
+matplotlib
+seaborn
+ipywidgets
+scipy
+jinja2
+weasyprint
+plotly
+ipyleaflet
